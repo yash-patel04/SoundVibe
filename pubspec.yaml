@@ -1,0 +1,51 @@
+name: SoundVibe
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  just_audio: ^0.9.18
+  provider: ^6.1.2
+  form_validator: ^2.1.1
+  email_validator: ^3.0.0
+  validators: ^3.0.0
+  cupertino_icons: ^1.0.6
+  crystal_navigation_bar: ^1.0.0
+  flutter_localization: ^0.2.2
+  http: ^1.2.2
+  shared_preferences: ^2.3.2
+  intl: ^0.19.0
+  audioplayers: ^6.1.0
+  firebase_core: ^3.5.0
+  firebase_auth: ^5.3.0
+  cloud_firestore: ^5.4.2
+  firebase_storage: ^12.3.1
+  path: ^1.9.0
+  syncfusion_flutter_gauges: ^27.1.48
+  get: ^4.6.6
+  flutter_svg: ^2.0.10+1
+  carousel_slider: ^5.0.0
+  on_audio_query: ^2.9.0
+  permission_handler: ^11.3.1
+  spotify: ^0.13.7
+  youtube_explode_dart: ^2.2.1
+  palette_generator: ^0.3.3+4
+  like_button: ^2.0.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+     - assets/
+     - assets/Icons/

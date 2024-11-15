@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "803692003435",
+    "project_id": "soundvibe-99c8f",
+    "storage_bucket": "soundvibe-99c8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803692003435:android:cb1f4887f18dcc6413712e",
+        "android_client_info": {
+          "package_name": "com.example.soundvibe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCti731g-ONX6wl1BawToQ1PMnsBoUvv6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
